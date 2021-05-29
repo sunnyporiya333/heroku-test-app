@@ -1,0 +1,7 @@
+{
+	"name": "test php app",
+	"description": "Deploy a sample php app",
+	"repository": "https://github.com/sunnyporiya333/heroku-test-app",
+	"logo": "http://technomile.github.io/img/cms_buildpack_github.png",
+	"keywords": ["heroku", "php", "apache", "apache2"]
+}
